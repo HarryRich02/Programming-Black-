@@ -1,0 +1,6 @@
+2.
+Port number: server will open on different port
+Status code: server will provide error to client X no change
+Hostname: server will open on different hostname
+Filename: nothing
+Content type: text will look different X
